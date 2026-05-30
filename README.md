@@ -63,15 +63,9 @@ AI Analysis + ATS Score
 
 ---
 
-# 📸 Application Preview
-
-(Add screenshots here later)
-
----
-
 # ⚙️ Installation
 
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resume-rag-assistant.git
+git clone https://github.com/manishapagadala02-rgb/resume-rag-assistant.git
